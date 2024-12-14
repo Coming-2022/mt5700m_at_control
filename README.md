@@ -5,6 +5,7 @@ It allows you to perform various operations such as viewing signal strength, loc
 
 ## Change Log
 2024/12/09 Version 1.0.0, Add 5G Scan Cell
+
 2024/12/14 Version 1.0.1, Repair ats processing logic to enable reconnection,set the return result function to make the return result clearer
 
 ## Features
